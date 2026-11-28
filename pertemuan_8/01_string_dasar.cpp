@@ -11,6 +11,7 @@ int main() {
     std::cout << "std::string : " << namaCpp << std::endl;
     std::cout << "strlen(namaC) : " << std::strlen(namaC) << std::endl;
     std::cout << "sizeof(namaC) : " << sizeof(namaC) << std::endl;
+    std::cout << "namaCpp.size() : " << namaCpp.size() << std::endl;
 
     return 0;
 }
